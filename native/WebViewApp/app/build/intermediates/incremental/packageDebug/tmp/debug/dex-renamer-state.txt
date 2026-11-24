@@ -1,0 +1,10 @@
+#Tue Nov 17 17:06:44 KST 2026
+base.2=/Users/jh/study/개발공부/testNativeToWeb/native/WebViewApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+path.2=11/classes.dex
+base.1=/Users/jh/study/개발공부/testNativeToWeb/native/WebViewApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/jh/study/개발공부/testNativeToWeb/native/WebViewApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

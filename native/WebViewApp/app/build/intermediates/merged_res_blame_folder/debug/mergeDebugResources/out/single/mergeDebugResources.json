@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.webviewapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/xml_network_security_config.xml.flat",
+        "source": "com.example.webviewapp-debug-32:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.webviewapp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.webviewapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
